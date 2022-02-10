@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXBS-LJ03A-10-ADCPTE303-streamed-adcp_pd0_beam_parsed
 data_stream: RS03AXBS-LJ03A-10-ADCPTE303-streamed-adcp_pd0_beam_parsed
 end_date: '2015-12-02T15:38:25.176Z'
-last_updated: '2022-02-10T11:40:00.203417Z'
+last_updated: '2022-02-10T12:19:03.209193'
 start_date: '2015-10-02T22:29:50.804Z'
-status: pending
+status: success
